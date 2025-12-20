@@ -4474,6 +4474,16 @@
 		)
 		(uuid "b6ccf10a-0047-45b4-8a2f-cbb01f002974")
 	)
+	(text "10 mA output"
+		(exclude_from_sim no)
+		(at 81.026 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b9f0345e-3b51-4aae-8408-b5be12820de8")
+	)
 	(text "N.C"
 		(exclude_from_sim no)
 		(at 52.578 21.336 0)
@@ -6474,7 +6484,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1R"
 			(at 33.02 120.65 90)
 			(effects
 				(font
