@@ -1,0 +1,2 @@
+G5V-2 5V https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf
+high sensitivity
